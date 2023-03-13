@@ -4,6 +4,7 @@ public class git {
 	public static void main(String[] args) {
 		System.out.println("repositorio creado");
 		System.out.println("primer commit realizado");
+		System.out.println("rama fast forward");
 	}
 }
 
